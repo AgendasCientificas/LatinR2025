@@ -1,0 +1,921 @@
+{
+    "sources": [
+        {
+            "URL": "https://www.R-project.org/",
+            "author": [
+                {
+                    "literal": "R Core Team"
+                }
+            ],
+            "id": "R-base",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "publisher": "R Foundation for Statistical Computing",
+            "publisher-place": "Vienna, Austria",
+            "title": "R: A language and environment for statistical computing",
+            "title-short": "R",
+            "type": "book"
+        },
+        {
+            "URL": "https://dplyr.tidyverse.org",
+            "author": [
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                },
+                {
+                    "family": "François",
+                    "given": "Romain"
+                },
+                {
+                    "family": "Henry",
+                    "given": "Lionel"
+                },
+                {
+                    "family": "Müller",
+                    "given": "Kirill"
+                },
+                {
+                    "family": "Vaughan",
+                    "given": "Davis"
+                }
+            ],
+            "id": "R-dplyr",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "note": "R package version 1.1.4",
+            "title": "Dplyr: A grammar of data manipulation",
+            "title-short": "Dplyr",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/PoliticaArgentina/geoAr",
+            "author": [
+                {
+                    "family": "Ruiz Nicolini",
+                    "given": "Juan Pablo"
+                },
+                {
+                    "family": "Del Boca",
+                    "given": "Patricio"
+                },
+                {
+                    "family": "Juara",
+                    "given": "Juan Gabriel"
+                }
+            ],
+            "id": "R-geoAr",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 1.0.0",
+            "title": "geoAr: Argentina’s spatial data toolbox",
+            "title-short": "geoAr",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/dkahle/ggmap",
+            "author": [
+                {
+                    "family": "Kahle",
+                    "given": "David"
+                },
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                },
+                {
+                    "family": "Jackson",
+                    "given": "Scott"
+                }
+            ],
+            "id": "R-ggmap",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "note": "R package version 4.0.1",
+            "title": "Ggmap: Spatial visualization with ggplot2",
+            "title-short": "Ggmap",
+            "type": "book"
+        },
+        {
+            "URL": "https://ggplot2.tidyverse.org",
+            "author": [
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                },
+                {
+                    "family": "Chang",
+                    "given": "Winston"
+                },
+                {
+                    "family": "Henry",
+                    "given": "Lionel"
+                },
+                {
+                    "family": "Pedersen",
+                    "given": "Thomas Lin"
+                },
+                {
+                    "family": "Takahashi",
+                    "given": "Kohske"
+                },
+                {
+                    "family": "Wilke",
+                    "given": "Claus"
+                },
+                {
+                    "family": "Woo",
+                    "given": "Kara"
+                },
+                {
+                    "family": "Yutani",
+                    "given": "Hiroaki"
+                },
+                {
+                    "family": "Dunnington",
+                    "given": "Dewey"
+                },
+                {
+                    "family": "Brand",
+                    "given": "Teun",
+                    "non-dropping-particle": "van den"
+                }
+            ],
+            "id": "R-ggplot2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 3.5.1",
+            "title": "ggplot2: Create elegant data visualisations using the grammar of graphics",
+            "title-short": "ggplot2",
+            "type": "book"
+        },
+        {
+            "URL": "https://yihui.org/knitr/",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "id": "R-knitr",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "note": "R package version 1.50",
+            "title": "Knitr: A general-purpose package for dynamic report generation in r",
+            "title-short": "Knitr",
+            "type": "book"
+        },
+        {
+            "URL": "https://rstudio.github.io/leaflet/",
+            "author": [
+                {
+                    "family": "Cheng",
+                    "given": "Joe"
+                },
+                {
+                    "family": "Schloerke",
+                    "given": "Barret"
+                },
+                {
+                    "family": "Karambelkar",
+                    "given": "Bhaskar"
+                },
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "id": "R-leaflet",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 2.2.2",
+            "title": "Leaflet: Create interactive web maps with the JavaScript leaflet library",
+            "title-short": "Leaflet",
+            "type": "book"
+        },
+        {
+            "URL": "https://CRAN.R-project.org/package=NLP",
+            "author": [
+                {
+                    "family": "Hornik",
+                    "given": "Kurt"
+                }
+            ],
+            "id": "R-NLP",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 0.3-2",
+            "title": "NLP: Natural language processing infrastructure",
+            "title-short": "NLP",
+            "type": "book"
+        },
+        {
+            "URL": "https://docs.ropensci.org/osmdata/",
+            "author": [
+                {
+                    "family": "Padgham",
+                    "given": "Mark"
+                },
+                {
+                    "family": "Rudis",
+                    "given": "Bob"
+                },
+                {
+                    "family": "Lovelace",
+                    "given": "Robin"
+                },
+                {
+                    "family": "Salmon",
+                    "given": "Maëlle"
+                },
+                {
+                    "family": "Maspons",
+                    "given": "Joan"
+                }
+            ],
+            "id": "R-osmdata",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "note": "R package version 0.2.5",
+            "title": "Osmdata: Import OpenStreetMap data as simple features or spatial objects",
+            "title-short": "Osmdata",
+            "type": "book"
+        },
+        {
+            "URL": "https://plotly-r.com",
+            "author": [
+                {
+                    "family": "Sievert",
+                    "given": "Carson"
+                },
+                {
+                    "family": "Parmer",
+                    "given": "Chris"
+                },
+                {
+                    "family": "Hocking",
+                    "given": "Toby"
+                },
+                {
+                    "family": "Chamberlain",
+                    "given": "Scott"
+                },
+                {
+                    "family": "Ram",
+                    "given": "Karthik"
+                },
+                {
+                    "family": "Corvellec",
+                    "given": "Marianne"
+                },
+                {
+                    "family": "Despouy",
+                    "given": "Pedro"
+                }
+            ],
+            "id": "R-plotly",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 4.10.4",
+            "title": "Plotly: Create interactive web graphics via plotly.js",
+            "title-short": "Plotly",
+            "type": "book"
+        },
+        {
+            "URL": "https://glin.github.io/reactable/",
+            "author": [
+                {
+                    "family": "Lin",
+                    "given": "Greg"
+                }
+            ],
+            "id": "R-reactable",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "note": "R package version 0.4.4",
+            "title": "Reactable: Interactive data tables for r",
+            "title-short": "Reactable",
+            "type": "book"
+        },
+        {
+            "URL": "https://readr.tidyverse.org",
+            "author": [
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                },
+                {
+                    "family": "Hester",
+                    "given": "Jim"
+                },
+                {
+                    "family": "Bryan",
+                    "given": "Jennifer"
+                }
+            ],
+            "id": "R-readr",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 2.1.5",
+            "title": "Readr: Read rectangular text data",
+            "title-short": "Readr",
+            "type": "book"
+        },
+        {
+            "URL": "https://r-spatial.github.io/sf/",
+            "author": [
+                {
+                    "family": "Pebesma",
+                    "given": "Edzer"
+                }
+            ],
+            "id": "R-sf",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 1.0-19",
+            "title": "Sf: Simple features for r",
+            "title-short": "Sf",
+            "type": "book"
+        },
+        {
+            "URL": "https://shiny.posit.co/",
+            "author": [
+                {
+                    "family": "Chang",
+                    "given": "Winston"
+                },
+                {
+                    "family": "Cheng",
+                    "given": "Joe"
+                },
+                {
+                    "family": "Allaire",
+                    "given": "JJ"
+                },
+                {
+                    "family": "Sievert",
+                    "given": "Carson"
+                },
+                {
+                    "family": "Schloerke",
+                    "given": "Barret"
+                },
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                },
+                {
+                    "family": "Allen",
+                    "given": "Jeff"
+                },
+                {
+                    "family": "McPherson",
+                    "given": "Jonathan"
+                },
+                {
+                    "family": "Dipert",
+                    "given": "Alan"
+                },
+                {
+                    "family": "Borges",
+                    "given": "Barbara"
+                }
+            ],
+            "id": "R-shiny",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "note": "R package version 1.11.1",
+            "title": "Shiny: Web application framework for r",
+            "title-short": "Shiny",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/dreamRs/shinyWidgets",
+            "author": [
+                {
+                    "family": "Perrier",
+                    "given": "Victor"
+                },
+                {
+                    "family": "Meyer",
+                    "given": "Fanny"
+                },
+                {
+                    "family": "Granjon",
+                    "given": "David"
+                }
+            ],
+            "id": "R-shinyWidgets",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "note": "R package version 0.9.0",
+            "title": "shinyWidgets: Custom inputs widgets for shiny",
+            "title-short": "shinyWidgets",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/edzer/sp/",
+            "author": [
+                {
+                    "family": "Pebesma",
+                    "given": "Edzer"
+                },
+                {
+                    "family": "Bivand",
+                    "given": "Roger"
+                }
+            ],
+            "id": "R-sp",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 2.1-4",
+            "title": "Sp: Classes and methods for spatial data",
+            "title-short": "Sp",
+            "type": "book"
+        },
+        {
+            "URL": "https://tidyr.tidyverse.org",
+            "author": [
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                },
+                {
+                    "family": "Vaughan",
+                    "given": "Davis"
+                },
+                {
+                    "family": "Girlich",
+                    "given": "Maximilian"
+                }
+            ],
+            "id": "R-tidyr",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 1.3.1",
+            "title": "Tidyr: Tidy messy data",
+            "title-short": "Tidyr",
+            "type": "book"
+        },
+        {
+            "URL": "https://tm.r-forge.r-project.org/",
+            "author": [
+                {
+                    "family": "Feinerer",
+                    "given": "Ingo"
+                },
+                {
+                    "family": "Hornik",
+                    "given": "Kurt"
+                }
+            ],
+            "id": "R-tm",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 0.7-15",
+            "title": "Tm: Text mining package",
+            "title-short": "Tm",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/karthik/wesanderson",
+            "author": [
+                {
+                    "family": "Ram",
+                    "given": "Karthik"
+                },
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                }
+            ],
+            "id": "R-wesanderson",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "note": "R package version 0.3.7",
+            "title": "Wesanderson: A wes anderson palette generator",
+            "title-short": "Wesanderson",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/lchiffon/wordcloud2",
+            "author": [
+                {
+                    "family": "Lang",
+                    "given": "Dawei"
+                },
+                {
+                    "family": "Chien",
+                    "given": "Guan-tin"
+                }
+            ],
+            "id": "R-wordcloud2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "note": "R package version 0.2.1",
+            "title": "wordcloud2: Create word cloud by htmlwidget",
+            "title-short": "wordcloud2",
+            "type": "book"
+        },
+        {
+            "URL": "https://journal.r-project.org/archive/2013-1/kahle-wickham.pdf",
+            "author": [
+                {
+                    "family": "Kahle",
+                    "given": "David"
+                },
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                }
+            ],
+            "container-title": "The R Journal",
+            "id": "ggmap2013",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "page": "144-161",
+            "title": "Ggmap: Spatial visualization with ggplot2",
+            "title-short": "Ggmap",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "ISBN": "978-3-319-24277-4",
+            "URL": "https://ggplot2.tidyverse.org",
+            "author": [
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                }
+            ],
+            "id": "ggplot22016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "publisher": "Springer-Verlag New York",
+            "title": "ggplot2: Elegant graphics for data analysis",
+            "title-short": "ggplot2",
+            "type": "book"
+        },
+        {
+            "URL": "https://yihui.org/knitr/",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "edition": "2nd",
+            "id": "knitr2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1498716963",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "Dynamic documents with R and knitr",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "container-title": "Implementing reproducible computational research",
+            "editor": [
+                {
+                    "family": "Stodden",
+                    "given": "Victoria"
+                },
+                {
+                    "family": "Leisch",
+                    "given": "Friedrich"
+                },
+                {
+                    "family": "Peng",
+                    "given": "Roger D."
+                }
+            ],
+            "id": "knitr2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1466561595",
+            "publisher": "Chapman; Hall/CRC",
+            "title": "Knitr: A comprehensive tool for reproducible research in R",
+            "title-short": "Knitr",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.21105/joss.00305",
+            "URL": "https://joss.theoj.org/papers/10.21105/joss.00305",
+            "author": [
+                {
+                    "literal": "Mark Padgham"
+                },
+                {
+                    "literal": "Bob Rudis"
+                },
+                {
+                    "literal": "Robin Lovelace"
+                },
+                {
+                    "literal": "Maëlle Salmon"
+                }
+            ],
+            "container-title": "Journal of Open Source Software",
+            "id": "osmdata2017",
+            "issue": "14",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        6
+                    ]
+                ]
+            },
+            "page": "305",
+            "publisher": "The Open Journal",
+            "title": "Osmdata",
+            "type": "article-journal",
+            "volume": "2"
+        },
+        {
+            "ISBN": "9781138331457",
+            "URL": "https://plotly-r.com",
+            "author": [
+                {
+                    "family": "Sievert",
+                    "given": "Carson"
+                }
+            ],
+            "id": "plotly2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "publisher": "Chapman; Hall/CRC",
+            "title": "Interactive web-based data visualization with r, plotly, and shiny",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1201/9780429459016",
+            "URL": "https://r-spatial.org/book/",
+            "author": [
+                {
+                    "family": "Pebesma",
+                    "given": "Edzer"
+                },
+                {
+                    "family": "Bivand",
+                    "given": "Roger"
+                }
+            ],
+            "id": "sf2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "publisher": "Chapman and Hall/CRC",
+            "title": "Spatial Data Science: With applications in R",
+            "type": "book"
+        },
+        {
+            "DOI": "10.32614/RJ-2018-009",
+            "URL": "https://doi.org/10.32614/RJ-2018-009",
+            "author": [
+                {
+                    "family": "Pebesma",
+                    "given": "Edzer"
+                }
+            ],
+            "container-title": "The R Journal",
+            "id": "sf2018",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "439-446",
+            "title": "Simple Features for R: Standardized Support for Spatial Vector Data",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "URL": "https://CRAN.R-project.org/doc/Rnews/",
+            "author": [
+                {
+                    "family": "Pebesma",
+                    "given": "Edzer J."
+                },
+                {
+                    "family": "Bivand",
+                    "given": "Roger"
+                }
+            ],
+            "container-title": "R News",
+            "id": "sp2005",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "page": "9-13",
+            "title": "Classes and methods for spatial data in R",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "URL": "https://asdar-book.org/",
+            "author": [
+                {
+                    "family": "Bivand",
+                    "given": "Roger S."
+                },
+                {
+                    "family": "Pebesma",
+                    "given": "Edzer"
+                },
+                {
+                    "family": "Gomez-Rubio",
+                    "given": "Virgilio"
+                }
+            ],
+            "id": "sp2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "publisher": "Springer, NY",
+            "title": "Applied spatial data analysis with R, second edition",
+            "type": "book"
+        },
+        {
+            "DOI": "10.18637/jss.v025.i05",
+            "author": [
+                {
+                    "family": "Feinerer",
+                    "given": "Ingo"
+                },
+                {
+                    "family": "Hornik",
+                    "given": "Kurt"
+                },
+                {
+                    "family": "Meyer",
+                    "given": "David"
+                }
+            ],
+            "container-title": "Journal of Statistical Software",
+            "id": "tm2008",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "page": "1-54",
+            "title": "Text mining infrastructure in r",
+            "type": "article-journal",
+            "volume": "25"
+        }
+    ],
+    "project_biblios": []
+}
