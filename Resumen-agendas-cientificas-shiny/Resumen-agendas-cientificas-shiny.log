@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.19)  19 AUG 2025 16:38
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.19)  20 AUG 2025 08:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -742,7 +742,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: Figura1.png Graphic file (type bmp)
 <Figura1.png>
 
-Package natbib Warning: Citation `R-studio' on page 2 undefined on input line 185.
+Package natbib Warning: Citation `R-studio' on page 2 undefined on input line 192.
 
 
 
@@ -828,7 +828,7 @@ Package rerunfilecheck Info: File `Resumen-agendas-cientificas-shiny.brf' has no
 Here is how much of TeX's memory you used:
  27748 strings out of 470442
  510109 string characters out of 5488959
- 937512 words of memory out of 5000000
+ 934512 words of memory out of 5000000
  55624 multiletter control sequences out of 15000+600000
  646633 words of font info for 74 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
