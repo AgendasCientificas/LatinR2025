@@ -37,7 +37,7 @@ biblio-style: apalike-es
 output:
   latinr::latinr_article:
     keep_tex: true
-    anonymise: yes
+    anonymise: no
     citation_package: natbib
 params:
   check_is_error: true
